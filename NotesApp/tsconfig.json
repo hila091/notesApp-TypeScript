@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "build",  
+        "rootDir": "src", // build ומכניס אותם ל js וממיר אותם ל src הוא לוקח את כל הקבצים שיש ב  
+        "module": "ESNext"     
+    }
+}
